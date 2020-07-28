@@ -13,9 +13,9 @@
 </p>
 <p align='center'>
     REFERENCE HANDLES
-  <a href="https://www.linkedin.com/in/venceslas-burongu-8271b519a/"><img src="https://www.iconfinder.com/icons/12934/linkedin_icon" />
+  <a href="https://www.linkedin.com/in/venceslas-burongu-8271b519a/"><img src="https://www.flaticon.com/free-icon/linkedin_2111499?term=linkedin&page=1&position=7" />
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/bvenceslas"><img src="https://icones8.fr/icons/set/twitter" />        
+  <a href="https://twitter.com/bvenceslas"><img src="https://www.flaticon.com/free-icon/twitter_733579?term=twitter&page=1&position=1" />        
   </a>&nbsp;&nbsp;  
 </p>
 
