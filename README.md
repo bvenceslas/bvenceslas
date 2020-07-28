@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 <h1 align='center'>
-   I'm __Venceslas Josh__
+   I'm Venceslas Josh
 </h1>
 <p align='center'>
     I'm an Electronics engineer and software developer, UI/UX and Graphic designer, Entrepreneur and Man of God
@@ -13,10 +13,12 @@
 </p>
 <p align='center'>
     REFERENCE HANDLES
-  <a href="https://www.linkedin.com/in/venceslas-burongu-8271b519a/"><img src="https://www.flaticon.com/free-icon/linkedin_2111499?term=linkedin&page=1&position=7" />
+  <a href="https://www.linkedin.com/in/venceslas-burongu-8271b519a/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/bvenceslas"><img src="https://www.flaticon.com/free-icon/twitter_733579?term=twitter&page=1&position=1" />        
-  </a>&nbsp;&nbsp;  
+  <a href="https://twitter.com/bvenceslas">    
+    <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
 </p>
 
 <p align='center'>
