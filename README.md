@@ -48,7 +48,7 @@
    - Adobe Illustrator <br/>
    - Adobe XD <br/>
    - Figma <br/>
-   - Canva <br/><br/>
+   - Canva <br/>
    </p>
       
 </p>
