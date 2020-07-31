@@ -54,8 +54,7 @@
 </p>
 <p align='center'>
    I am the <u>Initiator</u> of <a href="https://twitter.com/afridesignc">AfriDesign Community</a> <br/>
-   an ecosystem reaching out to designers of all genders to build and bring meaning to the African Design System.
-   
+   an ecosystem reaching out to designers of all genders to build and bring meaning to the African Design System.   
 </p>
 
 
@@ -67,7 +66,7 @@
    "My most unhappy customers are my greatest source of learning"
 </p>
 
-<br/><br/>
+<br/>
 
 <p align='center'>
    <b>and Man of God</b> 
@@ -77,12 +76,10 @@
    The spiritual life does not remove us from the world but leads us deeper into it. <br/> Henri J.M. Nouwen
 </p>
 
-
-
-<br/><br/>
+<br/>
 
 <p align='center'>
-   <b>REFERENCE HANDLES</b>
+   <b>REFERENCE HANDLES  </b>
    
   <a href="https://www.linkedin.com/in/venceslas-burongu-8271b519a/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
