@@ -16,7 +16,7 @@
    - Javascript (ReactJS, NodeJS, express <br/>
    - Java (Mobile, Desktop and Embeded solutions) <br/>
    - SQL (Mysql, SQLServer, Mysqlite, PostgreSQL <br/>
-   - Html (combined to css) <br/>
+   - Html (Css combined) <br/>
    </p>
    
 </p>
@@ -49,6 +49,7 @@
    - Adobe XD <br/>
    - Figma <br/>
    - Canva <br/>
+   - Camtasia TechSmith <br/>
    </p>
       
 </p>
@@ -69,7 +70,7 @@
 <br/>
 
 <p align='center'>
-   <b>and Man of God</b> 
+   <b>, ... and Man of God</b> 
 </p>
 
 <p align='center'>
