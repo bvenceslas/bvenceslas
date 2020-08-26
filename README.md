@@ -16,7 +16,7 @@
    - Javascript (ReactJS, NodeJS, express <br/>
    - Java (Mobile, Desktop and Embeded solutions) <br/>
    - SQL (Mysql, SQLServer, Mysqlite, PostgreSQL <br/>
-   - Html <br/>
+   - Html (combined to css) <br/>
    </p>
    
 </p>
