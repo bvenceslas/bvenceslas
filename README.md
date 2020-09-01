@@ -79,16 +79,39 @@
 
 <br/>
 
+
 <p align='center'>
-   <b>REFERENCE HANDLES  </b>
-   
-  <a href="https://www.linkedin.com/in/venceslas-burongu-8271b519a/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/bvenceslas">    
-    <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+   <b>Authors</b>
 </p>
+
+
+<p align='center'>
+   👤 Venceslas Burongu Josh
+</p>
+
+
+<p align='center'>
+   - Github: <a href='https://github.com/bvenceslas'>@bvenceslas</a> <br/>
+   - Twitter: <a href='https://twitter.com/bvenceslas'>@bvenceslas</a> <br/> 
+   - Linkedin: <a href='https://www.linkedin.com/in/venceslas-burongu-8271b519a/'>Venceslas Burongu</a><br/>
+</p>
+
+<p align='center'>
+   <b>🤝 Contributing</b>
+</p>
+
+<p align='center'>
+   Contributions, issues and feature requests are welcome!
+</p>
+
+<p align='center'>
+   <b>Show your support</b>
+</p>
+
+<p align='center'>
+   Give a ⭐️ if you like this project!
+</p>
+
 
 <p align='center'>
   Get in touch with me on: <a href='mailto:bvenceslas@gmail.com'>bvenceslas@gmail.com</a>
@@ -100,15 +123,4 @@
 
 <!--
 **bvenceslas/bvenceslas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
