@@ -32,19 +32,7 @@
 
    <p align='center'>
    UX, UI, Web, Mobile, Apps, Logos, Posters.   
-   Design Tools:
-   </p>
-   
-   <p align='center'>   
-   - Adobe Photoshop 
-   - Adobe Photoshop Lightroom <br/>
-   - Adobe Illustrator <br/>
-   - Adobe XD <br/>
-   - Figma <br/>
-   - Canva <br/>
-   - Camtasia TechSmith <br/>
-   </p>
-      
+   Design Tools: Adobe Photoshop (and Ps Lightroom), Adobe Illustrator, Adobe XD, Figma, Canva, Camtasia TechSmith
 </p>
 
 <p align='center'>
