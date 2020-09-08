@@ -31,8 +31,8 @@
    According to that, I value simple content structure, clean design patterns, and thoughtful interactions. Things I enjoy designing: <br/>
 
    <p align='center'>
-   UX, UI, Web, Mobile, Apps, Logos, Posters.   
-   Design Tools: Adobe Photoshop (and Ps Lightroom), Adobe Illustrator, Adobe XD, Figma, Canva, Camtasia TechSmith
+   <b>UX, UI, Web, Mobile, Apps, Logos, Posters<b/>.<br/> 
+   Design Tools: <br/><b>Adobe Photoshop (and Ps Lightroom), Adobe Illustrator, Adobe XD, Figma, Canva, Camtasia TechSmith<b/>
 </p>
 
 <p align='center'>
@@ -52,21 +52,8 @@
 </p>
 
 <p align='center'>
-   <b>🤝 Contributing</b>
-</p>
-
-<p align='center'>
-   Contributions, issues and feature requests are welcome!
-</p>
-
-<p align='center'>
    <b>Show your support</b>
 </p>
-
-<p align='center'>
-   Give a ⭐️ if you like this project!
-</p>
-
 
 <p align='center'>
   Get in touch with me on: <a href='mailto:bvenceslas@gmail.com'>bvenceslas@gmail.com</a>
