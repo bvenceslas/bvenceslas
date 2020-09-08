@@ -31,8 +31,7 @@
    According to that, I value simple content structure, clean design patterns, and thoughtful interactions. Things I enjoy designing: <br/>
 
    <p align='center'>
-   <b>UX, UI, Web, Mobile, Apps, Logos, Posters<b/>.<br/> 
-   Design Tools: <br/><b>Adobe Photoshop (and Ps Lightroom), Adobe Illustrator, Adobe XD, Figma, Canva, Camtasia TechSmith<b/>
+   <b>UX, UI, Web, Mobile, Apps, Logos, Posters<b/>using these Design Tools: <br/><b>Adobe Photoshop (and Ps Lightroom), Adobe Illustrator, Adobe XD, Figma, Canva, Camtasia TechSmith<b/>
 </p>
 
 <p align='center'>
