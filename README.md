@@ -31,7 +31,7 @@
    According to that, I value simple content structure, clean design patterns, and thoughtful interactions. Things I enjoy designing: <br/>
 
    <p align='center'>
-   <b>UX, UI, Web, Mobile, Apps, Logos, Posters<b/> using these Design Tools:
+   UX, UI, Web, Mobile, Apps, Logos, Posters using these Design Tools:
 </p>
 
 <p align='center'>
@@ -39,7 +39,7 @@
 </p>
 
 <p align='center'>
-   <b>Authors</b>
+   <b>Author</b>
 </p>
 
 
@@ -52,10 +52,6 @@
    - Github: <a href='https://github.com/bvenceslas'>@bvenceslas</a> <br/>
    - Twitter: <a href='https://twitter.com/bvenceslas'>@bvenceslas</a> <br/> 
    - Linkedin: <a href='https://www.linkedin.com/in/venceslas-burongu-8271b519a/'>Venceslas Burongu</a><br/>
-</p>
-
-<p align='center'>
-   <b>Show your support</b>
 </p>
 
 <p align='center'>
