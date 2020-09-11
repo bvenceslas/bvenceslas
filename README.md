@@ -26,7 +26,7 @@
    <b>I'm also intersted in Graphism, Design and Branding </b> 
 </p>
 <p align='center'>
-   I am the <u>Initiator</u> of <a href="https://twitter.com/afridesignc">AfriDesign Community</a> , <br/>
+   I am the <u>Initiator</u> of <a href="https://twitter.com/afridesignc" target="_blank">AfriDesign Community</a> , <br/>
    an ecosystem reaching out to designers of all genders to build and bring meaning to the African Design System. 
    According to that, I value simple content structure, clean design patterns, and thoughtful interactions. Things I enjoy designing: <br/>
 
