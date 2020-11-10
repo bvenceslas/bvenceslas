@@ -15,7 +15,9 @@
 <h3>🛠 Dev. Stacks</h3>
 
 - 💻 Mobile Application Development: Flutter (Dart), Java Android, Kotlin Android.
-- 💻 Web Application Development: ReactJS, NodeJS, ExpressJS, HapiJS, Javascript, GraphQL, HTML5, CSS3, Typescript, Redux, NestJS, JestJs, Cypress, Enzyme.
+- 💻 Web Application Development: ReactJS, NodeJS, ExpressJS, HapiJS, Javascript, GraphQL,Typescript, Redux, HTML5, CSS3, 
+- 💻 Agile Sofware Development Methodology, Pair-Programming, Software BrainStorming.
+- 💻 Test Driven Development: Jest & Enzyme & Cypress
 - 💻 Enterprise Application Development(Desktop): Java (Swing & FX)
 - 💻 Database Developement : SQL Server, MySQL, SQL Lite, Oracle, MongoDB, Redis, Firebase.
 - 💻 Devops: Heroku, AWS, Google Cloud, Digital Ocean, Git, GitHub, Docker, NPM, YARN.
