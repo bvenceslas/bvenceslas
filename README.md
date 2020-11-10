@@ -21,7 +21,6 @@
 - 💻 Devops: Heroku, AWS, Google Cloud, Digital Ocean, Git, GitHub, Docker, NPM, YARN.
 - 💻 Electronics: (Analysis - Conception & Implementation) Power, Arduino, Raspberry Pi.
 
-<br/>
 
 [![Venceslas BURONGU's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bvenceslas&show_icons=true)](https://github.com/bvenceslas)
 
@@ -47,3 +46,6 @@
 
 
 Get in touch with me on: <a href='mailto:bvenceslas@gmail.com'>bvenceslas@gmail.com</a>
+
+
+⭐️ From [bvenceslas](https://github.com/bvenceslas)
