@@ -5,7 +5,7 @@
 
 - ✔️ Software Engineer (Altect-RDC, Weza Lab).
 - ✔️ Entrepreneur (W-Deposit, MediTracks SAS, Qwadoo).
-- ✔️ Height : 5.5 ft (1m70), White Eyes, Basketball.
+- ✔️ Height : 5.5 ft (1m70), Black-White Eyes, Basketball.
 
 - ✔️ Man of God (International Fellowship - Sangya Ministry, EliChrist Ministry, Truth & Revival Actor).
 
@@ -38,7 +38,7 @@
 
    <br/>
 
-  <a href="https://www.linkedin.com/in/venceslas-burongu-8271b519a/">
+  <a href="https://www.linkedin.com/in/venceslas-burongu/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/bvenceslas">    
