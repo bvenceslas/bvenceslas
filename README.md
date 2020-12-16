@@ -12,7 +12,7 @@
 - 🎓  Studied Computer Science at ISIG (Institut Superieur d'Informatique et de Gestion, Bac+5).
 - 🎓  Studied Industrial Electronics at ITIG (Institut Technique Industriel de Goma, Bac).
 
-<h3>🛠 Dev. Stacks</h3>
+<h3>🛠 Tech. Stacks</h3>
 
 - 💻 Mobile Application Development: Flutter (Dart), Java Android, Kotlin Android.
 - 💻 Web Application Development: ReactJS, NodeJS, ExpressJS, HapiJS, Javascript, GraphQL,Typescript, Redux, HTML5, CSS3, 
