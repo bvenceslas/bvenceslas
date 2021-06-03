@@ -32,7 +32,8 @@
 - Founder at [AfriDesign](https://twitter.com/afridesignc)
 
 - 💻 UI/UX Design: Figma, Adobe XD, Mazer (Test), Whimsical
-- 💻 Graphic Design, Logos, Posters: Photoshop, Illustrator, PS-Lightroom, Canva.
+- 💻 Graphic Design, Logos, Posters, banners: Photoshop, Illustrator, PS-Lightroom, Canva.
+- 💻 Video Editing: Adobe Premier Pro, KineMaster, Adobe Rush, InShot, Vllo.
 
    <h3>📞 Talk to me</h3>
 
