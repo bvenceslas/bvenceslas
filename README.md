@@ -12,7 +12,7 @@
 - 🎓  Studied Computer Science at ISIG (Institut Superieur d'Informatique et de Gestion, Bac+5).
 - 🎓  Studied Industrial Electronics at ITIG (Institut Technique Industriel de Goma, Bac).
 
-<h3>🛠 Dev. Stacks</h3>
+<h3>🛠 Tech. Stacks</h3>
 
 - 💻 Mobile Application Development: React Native.
 - 💻 Web Application Development: ReactJS, NodeJS, ExpressJS, HapiJS, Javascript, GraphQL,Typescript, Redux, HTML5, CSS3, 
@@ -32,13 +32,14 @@
 - Founder at [AfriDesign](https://twitter.com/afridesignc)
 
 - 💻 UI/UX Design: Figma, Adobe XD, Mazer (Test), Whimsical
-- 💻 Graphic Design, Logos, Posters: Photoshop, Illustrator, PS-Lightroom, Canva.
+- 💻 Graphic Design, Logos, Posters, banners: Photoshop, Illustrator, PS-Lightroom, Canva.
+- 💻 Video Editing: Adobe Premier Pro, KineMaster, Adobe Rush, InShot, Vllo.
 
    <h3>📞 Talk to me</h3>
 
    <br/>
 
-  <a href="https://www.linkedin.com/in/venceslas-burongu-8271b519a/">
+  <a href="https://www.linkedin.com/in/venceslas-burongu/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/bvenceslas">    
