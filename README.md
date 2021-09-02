@@ -4,8 +4,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - ✔️ Software Engineer (Altect-RDC, Weza Lab).
-- ✔️ Entrepreneur (W-Deposit, MediTracks SAS, Qwadoo).
-- ✔️ Height : 5.5 ft (1m70), Black-White Eyes, Basketball.
+- ✔️ Entrepreneur (W-Deposit, Skilllas).
+- ✔️ Height : 5.5 ft (1m70), White Eyes, Basketball.
 
 - ✔️ Man of God (International Fellowship - Sangya Ministry, EliChrist Ministry, Truth & Revival Actor).
 
@@ -14,13 +14,13 @@
 
 <h3>🛠 Tech. Stacks</h3>
 
-- 💻 Mobile Application Development: Flutter (Dart), Java Android, Kotlin Android.
+- 💻 Mobile Application Development: React Native.
 - 💻 Web Application Development: ReactJS, NodeJS, ExpressJS, HapiJS, Javascript, GraphQL,Typescript, Redux, HTML5, CSS3, 
-- 💻 Agile Sofware Development Methodology, Pair-Programming, Software BrainStorming.
+- 💻 Agile Sofware Development Methodology, Scrum master, Pair-Programming, Software BrainStorming.
 - 💻 Test Driven Development: Jest & Enzyme & Cypress
-- 💻 Enterprise Application Development(Desktop): Java (Swing & FX)
-- 💻 Database Developement : SQL Server, MySQL, SQL Lite, Oracle, MongoDB, Redis, Firebase.
-- 💻 Devops: Heroku, AWS, Google Cloud, Digital Ocean, Git, GitHub, Docker, NPM, YARN.
+<!-- - 💻 Enterprise Application Development(Desktop): Java Swing -->
+- 💻 Database Developement : SQL Server, MySQL, SQL Lite, MongoDB, Redis, Firebase.
+- 💻 Devops: Heroku, AWS, <!--Google Cloud -->, Digital Ocean, Git, GitHub, Docker, NPM, YARN.
 - 💻 Electronics: (Analysis - Conception & Implementation) Power, Arduino, Raspberry Pi.
 
 
