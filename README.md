@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - ✔️ Software Engineer (Altect-RDC, Weza Lab).
-- ✔️ Entrepreneur (W-Deposit, Skilllas).
+- ✔️ Entrepreneur (W-Deposit, Skilly Hub).
 - ✔️ Height : 5.5 ft (1m70), White Eyes, Basketball.
 
 - ✔️ Man of God (International Fellowship - Sangya Ministry, EliChrist Ministry, Truth & Revival Actor).
