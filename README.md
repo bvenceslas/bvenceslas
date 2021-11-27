@@ -29,7 +29,7 @@
 
 <h3>🛠 Design</h3>
 
-- Founder at [AfriDesign](https://twitter.com/afridesignc)
+- Founder at [ChapAfrik](https://twitter.com/chapafrik)
 
 - 💻 UI/UX Design: Figma, Adobe XD, Mazer (Test), Whimsical
 - 💻 Graphic Design, Logos, Posters, banners: Photoshop, Illustrator, PS-Lightroom, Canva.
