@@ -3,14 +3,14 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- ✔️ Software Engineer (Altect-RDC, Weza Lab).
+- ✔️ Software Engineer (Altech-Group, Weza Lab).
 - ✔️ Entrepreneur (W-Deposit, Skilly Hub).
 - ✔️ Height : 5.5 ft (1m70), White Eyes, Basketball.
 
-- ✔️ Man of God (International Fellowship - Sangya Ministry, EliChrist Ministry, Truth & Revival Actor).
+- ✔️ Man of God (International Fellowship, EliChrist Ministry, Truth & Revival Actor).
 
-- 🎓  Studied Computer Science at ISIG (Institut Superieur d'Informatique et de Gestion, Bac+5).
-- 🎓  Studied Industrial Electronics at ITIG (Institut Technique Industriel de Goma, Bac).
+- 🎓  Computer Science at ISIG / Goma - Bac+5.
+- 🎓  Studied Industrial Electronics at ITIG / Goma - Bac.
 
 <h3>🛠 Tech. Stacks</h3>
 
@@ -33,7 +33,7 @@
 
 - 💻 UI/UX Design: Figma, Adobe XD, Mazer (Test), Whimsical
 - 💻 Graphic Design, Logos, Posters, banners: Photoshop, Illustrator, PS-Lightroom, Canva.
-- 💻 Video Editing: Adobe Premier Pro, KineMaster, Adobe Rush, InShot, Vllo.
+- 💻 Video Editing: Adobe Premier Pro, KineMaster, InShot, Vllo.
 
    <h3>📞 Talk to me</h3>
 
