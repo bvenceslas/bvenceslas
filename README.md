@@ -37,14 +37,7 @@
 
    <h3>📞 Talk to me</h3>
 
-   <!--
    <br/>
-   <h1 align="center">Achievement 🏆</h1>
-   <p align="center">
-     <img width="660" src="https://github-profile-trophy.vercel.app/?username=bvenceslas&theme=onedark&title=Followers,Commits,FullRequest,Repositories,Stars,Issues">
-   </p>
-   <br/>
--->
 
   <a href="https://www.linkedin.com/in/venceslas-burongu/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
