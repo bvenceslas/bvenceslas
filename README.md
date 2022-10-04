@@ -5,11 +5,7 @@
 
 - ✔️ Software Engineer (Altech-Group, Weza Lab).
 - ✔️ Entrepreneur (WeDeposit, Skilly Hub).
-- ✔️ Height : 5.5 ft (1m70), White Eyes, Basketball.
 
-
-- 🎓  Computer Science at ISIG / Goma - Bac+5.
-- 🎓  Industrial Electronics at ITIG / Goma - Bac.
 
 <h3>🛠 Tech. Stacks</h3>
 
