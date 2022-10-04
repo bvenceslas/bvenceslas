@@ -7,7 +7,6 @@
 - ✔️ Entrepreneur (WeDeposit, Skilly Hub).
 - ✔️ Height : 5.5 ft (1m70), White Eyes, Basketball.
 
-- ✔️ Man of God (International Fellowship, EliChrist Ministry, Truth & Revival Actor).
 
 - 🎓  Computer Science at ISIG / Goma - Bac+5.
 - 🎓  Industrial Electronics at ITIG / Goma - Bac.
