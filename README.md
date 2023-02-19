@@ -12,19 +12,18 @@
 - 💻 Agile Sofware Development Methodology, Scrum master, Pair-Programming, Software BrainStorming.
 - 💻 Test Driven Development: Jest & Enzyme & Cypress
 <!-- - 💻 Enterprise Application Development(Desktop): Java Swing -->
-- 💻 Database Developement : SQL Server, MySQL, SQL Lite, MongoDB, Redis, Firebase.
+- 💻 Database Developement : SQL Server, MySQL, SQL Lite, PostGreSQL, MongoDB, Redis, Firebase.
 - 💻 Devops: Heroku, <!--AWS Google Cloud -->, Digital Ocean, Git, GitHub, Docker, NPM, YARN.
 <!-- - 💻 Electronics: (Analysis - Conception & Implementation) Power, Arduino, Raspberry Pi. -->
 
-[![Venceslas BURONGU's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bvenceslas&show_icons=true)](https://github.com/bvenceslas)
-
 <h3>🛠 Design</h3>
 
-- Founder at [ChapAfrik](https://twitter.com/chapafrik)
+- Founder at [ChapAfrik Design Community](https://twitter.com/chapafrik)
 
 - 💻 Graphic Design | UI/UX Design: Figma, Adobe XD, Photoshop, Canva, Mazer (Test), Whimsical
-- 💻 <!--, Logos, Posters, banners: , Illustrator, PS-Lightroom, . -->
   <!-- - 💻 Video Editing: Adobe Premier Pro, KineMaster, InShot, Vllo. -->
+
+[![Venceslas BURONGU's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bvenceslas&show_icons=true)](https://github.com/bvenceslas)
 
        <h3>📞 Talk to me</h3>
 
