@@ -25,18 +25,18 @@
 
 [![Venceslas BURONGU's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bvenceslas&show_icons=true)](https://github.com/bvenceslas)
 
-       <h3>📞 Talk to me</h3>
+<h3>📞 Talk to me</h3>
 
-       <br/>
+<br/>
+<p>
+  <a href="https://www.linkedin.com/in/venceslas-burongu/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/bvenceslas">
+    <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>&nbsp;&nbsp;
 
-      <a href="https://www.linkedin.com/in/venceslas-burongu/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>&nbsp;&nbsp;
-      <a href="https://twitter.com/bvenceslas">
-        <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-      </a>&nbsp;&nbsp;
-
-    </p>
+</p>
 
 Get in touch with me on: <a href='mailto:bvenceslas@gmail.com'>bvenceslas@gmail.com</a>
 
