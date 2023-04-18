@@ -18,9 +18,9 @@
 
 <h3>🛠 Design</h3>
 
-- Founder at [ChapAfrik Design Community](https://twitter.com/chapafrik)
+<!-- - Founder at [ChapAfrik Design Community](https://twitter.com/chapafrik) -->
 
-- 💻 Graphic Design | UI/UX Design: Figma, Adobe XD, Photoshop, Canva, Mazer (Test), Whimsical
+- 💻 Figma, Adobe XD, Photoshop, Canva, Mazer (Test), Whimsical
   <!-- - 💻 Video Editing: Adobe Premier Pro, KineMaster, InShot, Vllo. -->
 
 [![Venceslas BURONGU's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bvenceslas&show_icons=true)](https://github.com/bvenceslas)
