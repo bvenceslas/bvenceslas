@@ -3,12 +3,12 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - ✔️ Software Engineer (Altech-Group, Weza Lab).
-- ✔️ Entrepreneur (WeDeposit, Skilly Hub).
+<!-- - ✔️ Entrepreneur (WeDeposit, Skilly Hub). -->
 
 <h3>🛠 Tech. Stacks</h3>
 
 - 💻 Mobile Application Development: React Native.
-- 💻 Web Application Development: ReactJS, NodeJS, ExpressJS, HapiJS, Javascript, GraphQL,Typescript, Redux, HTML5, CSS3,
+- 💻 Web Application Development: ReactJS, NextJS, NodeJS, NestJS, TypeScript, GraphQL
 - 💻 Agile Sofware Development Methodology, Scrum master, Pair-Programming, Software BrainStorming.
 - 💻 Test Driven Development: Jest & Enzyme & Cypress
 <!-- - 💻 Enterprise Application Development(Desktop): Java Swing -->
