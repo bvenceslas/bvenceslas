@@ -2,26 +2,14 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- ✔️ Software Engineer (Altech-Group, Weza Lab).
-<!-- - ✔️ Entrepreneur (WeDeposit, Skilly Hub). -->
+✔️ Agile Software Engineer (Altech-Group, Weza Lab).
+- <strong>Programming</strong>: Html - CSS - NodeJS - NestJS - Express - ReactJS, NextJS
+- <strong>Tools</strong>: Git - Netlify - Heroku - Docker - Trello - Zenhub - MongoDB - Mysql - Postgres - Redis - GraphQL
+- <strong>Design</strong>: Photoshop - Figma - Canva - Mazer - Whimsical
+- <strong>Database Developement</strong> : SQL Server, MySQL, SQL Lite, PostGreSQL, MongoDB, Redis, Firebase.
 
-<h3>🛠 Tech. Stacks</h3>
 
-- 💻 Mobile Application Development: React Native.
-- 💻 Web Application Development: ReactJS, NextJS, NodeJS, NestJS, TypeScript, GraphQL
-- 💻 Agile Sofware Development Methodology, Scrum master, Pair-Programming, Software BrainStorming.
-- 💻 Test Driven Development: Jest & Enzyme & Cypress
-<!-- - 💻 Enterprise Application Development(Desktop): Java Swing -->
-- 💻 Database Developement : SQL Server, MySQL, SQL Lite, PostGreSQL, MongoDB, Redis, Firebase.
-- 💻 Devops: Heroku, <!--AWS Google Cloud -->, Digital Ocean, Git, GitHub, Docker, NPM, YARN.
-<!-- - 💻 Electronics: (Analysis - Conception & Implementation) Power, Arduino, Raspberry Pi. -->
-
-<h3>🛠 Design</h3>
-
-<!-- - Founder at [ChapAfrik Design Community](https://twitter.com/chapafrik) -->
-
-- 💻 Figma, Adobe XD, Photoshop, Canva, Mazer (Test), Whimsical
-  <!-- - 💻 Video Editing: Adobe Premier Pro, KineMaster, InShot, Vllo. -->
+<!-- Founder at [ChapAfrik Design Community](https://twitter.com/chapafrik) -->
 
 [![Venceslas BURONGU's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bvenceslas&show_icons=true)](https://github.com/bvenceslas)
 
