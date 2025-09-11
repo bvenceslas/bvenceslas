@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-✔️ Agile Software Engineer (Altech-Group, Weza Lab).
+✔️ Agile Software Engineer (OpenCRVS, Skilly Hub, WezaLab).
 - <strong>Programming</strong>: Html - CSS - NodeJS - NestJS - Express - ReactJS, NextJS
 - <strong>Tools</strong>: Git - Netlify - Heroku - Trello - Zenhub - GraphQL - Docker - K8s
 - <strong>Design</strong>: Photoshop - Figma - Canva - Mazer - Whimsical
