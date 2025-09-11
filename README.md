@@ -4,7 +4,7 @@
 
 ✔️ Agile Software Engineer (Altech-Group, Weza Lab).
 - <strong>Programming</strong>: Html - CSS - NodeJS - NestJS - Express - ReactJS, NextJS
-- <strong>Tools</strong>: Git - Netlify - Heroku - Docker - Trello - Zenhub - MongoDB - Mysql - Postgres - Redis - GraphQL
+- <strong>Tools</strong>: Git - Netlify - Heroku - Trello - Zenhub - GraphQL - Docker - K8s
 - <strong>Design</strong>: Photoshop - Figma - Canva - Mazer - Whimsical
 - <strong>Database Developement</strong> : SQL Server, MySQL, SQL Lite, PostGreSQL, MongoDB, Redis, Firebase.
 
